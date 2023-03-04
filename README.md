@@ -17,8 +17,8 @@ I'm from Nandyal, I'm exited about learning new things,
 
 *🖥️DATA STRUCTURES
 
-- 🌱 I’m currently learning Full Stack Development 
-- ⚡ Fun fact: I'm funny 
+🌱 I’m currently learning Full Stack Development 
+⚡ Fun fact: I'm funny 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akhilleshwari01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhilaakhi_08/)  
