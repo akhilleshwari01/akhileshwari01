@@ -8,9 +8,13 @@ I'm from Nandyal, I'm exited about learning new things,
 
 ### Skills and Experience: 
 *🖥️C 
+
 *🖥️PYTHON
+
 *🖥️JAVA 
+
 *🖥️HTML 
+
 *🖥️DATA STRUCTURES
 
 - 🌱 I’m currently learning Full Stack Development 
